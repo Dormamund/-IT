@@ -1,0 +1,5 @@
+C:\Users\User\source\repos\Academy\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Academy\Persistence\obj\Debug\netcoreapp3.1\Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Academy\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Academy\Persistence\obj\Debug\netcoreapp3.1\Persistence.AssemblyInfo.cs
+C:\Users\User\source\repos\Academy\Persistence\obj\Debug\netcoreapp3.1\Persistence.csproj.CoreCompileInputs.cache
